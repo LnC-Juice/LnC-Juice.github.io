@@ -1,0 +1,14 @@
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background: #333333;
+        --accent: #6666ee;
+        --accent-text: #FFFFFF;
+    }
+}
+@media (prefers-color-scheme: light) {
+    :root {
+        --background: #FFFFFF;
+        --accent: #9292ff;
+        --accent-text: #000000;
+    }
+}
